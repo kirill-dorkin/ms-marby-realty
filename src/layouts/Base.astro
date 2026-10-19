@@ -39,7 +39,7 @@ const analytics = import.meta.env.PUBLIC_VERCEL_ANALYTICS === 'true';
     <meta property="og:url" content={canonical} />
     <meta property="og:image" content={ogImage} />
     <meta name="twitter:card" content="summary_large_image" />
-    {noindex && <meta name="robots" content="noindex" />}
+    <meta name="robots" content="noindex, nofollow" />
     <script is:inline>document.documentElement.classList.add('js');</script>
   </head>
   <body>

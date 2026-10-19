@@ -5,7 +5,8 @@ import { reduced } from './motion';
 export let lenis: Lenis | null = null;
 
 export function initSmooth() {
-  if (reduced) return;
+  // MicroStudio demo: native scrolling — no scroll smoothing.
+  if (reduced || true) return;
   lenis = new Lenis({ lerp: 0.1, autoRaf: true, anchors: { offset: 0 } });
 }
 

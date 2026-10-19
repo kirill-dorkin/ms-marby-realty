@@ -31,23 +31,18 @@
     ],
     "socials": [
       {
-        "label": "Twitter [ x ]",
-        "footerLabel": "Twitter [X]",
-        "href": "https://x.com"
+        "label": "MicroStudio",
+        "footerLabel": "Demo by MicroStudio",
+        "href": "https://micro-studio.vercel.app/ru/work/marby-realty"
       },
       {
-        "label": "Threads",
-        "footerLabel": "Threads",
-        "href": "https://www.threads.com"
-      },
-      {
-        "label": "Linkedin",
-        "footerLabel": "LinkedIn",
-        "href": "https://www.linkedin.com"
+        "label": "Original theme",
+        "footerLabel": "Original theme (MIT)",
+        "href": "https://github.com/agnilem/marby-astro"
       }
     ],
     "footer": {
-      "description": "A boutique brokerage founded in 2009, representing buyers and sellers of exceptional properties.",
+      "description": "A fictional boutique brokerage — a MicroStudio demo based on the open-source Marby theme by Startfrom (MIT).",
       "cta": {
         "label": "Contact us",
         "href": "/contact"
@@ -101,7 +96,7 @@
         "name": "Name",
         "email": "Email",
         "message": "Your message",
-        "success": "Thank you",
+        "success": "Demo: nothing was sent",
         "error": "Something went wrong"
       }
     }
@@ -185,7 +180,7 @@
       "count": 4
     },
     "testimonials": {
-      "label": "[ Testimonials ]",
+      "label": "[ Sample testimonials ]",
       "items": [
         {
           "quote": "\"We'd been searching for the right property in Greenwich for almost two years. Marby came in, understood exactly what we were looking for, and within six weeks we were under contract on something better than we'd imagined.\"",
