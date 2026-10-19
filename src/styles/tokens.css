@@ -26,7 +26,7 @@
   --glass-warm: linear-gradient(180deg, rgba(27, 27, 40, 0) 0%, rgba(27, 27, 40, 0.15) 100%);
 
   /* fonts */
-  --font-sans: 'Urbanist', system-ui, sans-serif;
+  --font-sans: 'Urbanist', 'Onest', system-ui, sans-serif; /* Onest covers Cyrillic glyphs */
   --font-caption: 'Onest', system-ui, sans-serif;
 
   /* easing */

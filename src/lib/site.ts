@@ -9,4 +9,4 @@ export async function site<T = any>(id: string): Promise<T> {
 
 /** "Apr 28, 2026", the medium date style the design uses. */
 export const formatDate = (d: Date) =>
-  d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
+  d.toLocaleDateString('ru-RU', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC' });

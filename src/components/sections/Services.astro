@@ -12,7 +12,7 @@ const { services } = await site('home');
     <div class="services__stack">
       {services.items.map((s: any, i: number) => (
         <a class="svc hover-target" href={s.href} data-appear={i === 0 ? '' : undefined} style={i === 0 ? '--appear-delay:0.2s;--appear-ease:var(--ease-inout)' : undefined}>
-          <img class="svc__img" src={s.image} alt="Service card property image" loading="lazy" />
+          <img class="svc__img" src={s.image} alt="Фото объекта к услуге" loading="lazy" />
           <div class="svc__card">
             <div class="svc__progress">
               <span class="svc__line"></span>

@@ -1,22 +1,22 @@
 ---
 order: 6
-title: "How to Sell Your Home Without an Agent and Stay Safe"
+title: "Как продать дом без агента и не рисковать"
 date: "2026-05-24"
-category: "Buying & Selling"
+category: "Покупка и продажа"
 image: "/assets/blog/lETmrL3KaNlDVFjdbBMhstC2M.webp"
-imageAlt: "Arched cream-painted door set in a limestone block wall, with a flowering tree casting diagonal shadows on the facade, Mediterranean street architecture"
+imageAlt: "Арочная дверь кремового цвета в стене из известняка, на фасаде — тени от цветущего дерева"
 ---
 
-Selling a property without a real estate agent can be an effective way to reduce costs and maintain full control over the transaction. However, taking the "For Sale by Owner" route means you'll be responsible for pricing, marketing, negotiations, and paperwork. With the right preparation, homeowners can successfully manage the process while protecting themselves from common risks.
+Продажа без агента помогает сэкономить на комиссии и держать всё под контролем. Но тогда цена, реклама, переговоры и документы — полностью ваша ответственность. С хорошей подготовкой это реально.
 
-#### Set the Right Price and Market Your Property
+#### Назначьте правильную цену и подготовьте подачу
 
-One of the biggest mistakes private sellers make is overpricing their home. Research comparable properties in your area, review recent sales data, and consider obtaining a professional valuation if necessary. A realistic asking price will attract more potential buyers and reduce the time your property spends on the market.
+Главная ошибка частных продавцов — завышенная цена. Изучите похожие объекты в районе, посмотрите реальные сделки и при необходимости закажите оценку. Реалистичная цена привлечёт больше покупателей и сократит срок продажи.
 
-Professional photography is equally important. High-quality images and a detailed property description can significantly increase buyer interest. Make sure your listing highlights the home's strongest features and any recent improvements.
+Не экономьте на фотографиях. Хорошая съёмка и подробное описание заметно повышают интерес. Расскажите о сильных сторонах дома и недавних улучшениях.
 
-#### Protect Yourself Throughout the Process
+#### Позаботьтесь о безопасности
 
-Safety should remain a priority from the first inquiry to the final closing. Screen potential buyers before arranging viewings and avoid sharing unnecessary personal information. Schedule appointments during daylight hours and consider having another person present during property tours.
+Проверяйте покупателей до показа и не делитесь лишней личной информацией. Назначайте показы днём и приглашайте на них кого-то из близких.
 
-Before accepting an offer, request proof of financing or mortgage pre-approval. Once an agreement is reached, work with a qualified real estate attorney to review contracts and ensure all legal obligations are met. A careful and organized approach can help you save on commission fees without compromising security.
+Прежде чем принять предложение, попросите подтверждение финансирования или одобрение ипотеки. Договор обязательно покажите юристу — так вы сэкономите на комиссии, не рискуя сделкой.

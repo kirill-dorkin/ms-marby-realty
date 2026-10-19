@@ -16,10 +16,10 @@ const related = (await getCollection('blog'))
   .slice(0, 2);
 const d = post.data;
 ---
-<Base title={`${d.title} — Marby Blog`} description={`Read ${d.title} from the Marby real estate blog.`} image={d.image}>
+<Base title={`${d.title} — журнал Marby`} description={`${d.title} — статья из журнала Marby.`} image={d.image}>
   <article>
     <header class="ahead">
-      <nav class="crumbs" aria-label="Breadcrumb">
+      <nav class="crumbs" aria-label="Навигационная цепочка">
         <a class="t-body-sm link" href="/blog">{blog.crumb}</a>
         <span class="t-body-sm c-300">/</span>
         <span class="t-body-sm c-900 crumbs__current">{d.title}</span>

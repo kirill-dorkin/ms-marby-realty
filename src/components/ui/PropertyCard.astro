@@ -4,7 +4,7 @@ import type { CollectionEntry } from 'astro:content';
 interface Props { p: CollectionEntry<'properties'>; eager?: boolean }
 const { p, eager = false } = Astro.props;
 const d = p.data;
-const rows = [['AREA', d.area], ['LOCATION', d.location], ['BEDROOMS', d.bedrooms], ['PRICE', d.price]];
+const rows = [['ПЛОЩАДЬ', d.area], ['РАСПОЛОЖЕНИЕ', d.location], ['СПАЛЕН', d.bedrooms], ['ЦЕНА', d.price]];
 ---
 <a class="pcard" href={`/property/${p.id}`} data-filter-item data-tags={d.category} data-name={d.name}>
   <div class="pcard__media">

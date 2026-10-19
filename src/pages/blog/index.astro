@@ -8,12 +8,12 @@ const blog = await site('blog');
 const posts = (await getCollection('blog')).sort((a, b) => a.data.order - b.data.order);
 ---
 <Base
-  title="Real Estate Insights & News — Marby Blog"
-  description="Expert advice on buying, selling, and investing in real estate. Stay up to date with market trends, property guides, and lifestyle inspiration from Marby."
+  title="Журнал — Marby"
+  description="Советы о покупке, продаже и инвестициях в недвижимость от команды Marby."
 >
   <PageHeader label={blog.header.label} title={blog.header.title} labelClass="t-caption" />
   <section class="bgrid" data-filter>
-    <div class="bgrid__tabs" data-appear="mount" style="--appear-delay:0.4s;--appear-y:150px" role="group" aria-label="Filter by category">
+    <div class="bgrid__tabs" data-appear="mount" style="--appear-delay:0.4s;--appear-y:150px" role="group" aria-label="Фильтр по категории">
       <button class="tab" type="button" data-filter-tab="" aria-pressed="true">{blog.all}</button>
       {blog.categories.map((c: string) => <button class="tab" type="button" data-filter-tab={c} aria-pressed="false">{c}</button>)}
     </div>

@@ -4,7 +4,7 @@ import Btn from '../components/Btn.astro';
 import { site } from '../lib/site';
 const nf = await site('notFound');
 ---
-<Base title="Page Not Found | Marby" description="The page you're looking for doesn't exist or has been moved." withForm={false} noindex>
+<Base title="Страница не найдена | Marby" description="Такой страницы нет или она была перемещена." withForm={false} noindex>
   <section class="nf" data-dark>
     <img class="nf__bg" src={nf.image} alt="" />
     <div class="scrim" aria-hidden="true"></div>

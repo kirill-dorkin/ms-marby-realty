@@ -1,22 +1,20 @@
 ---
 order: 4
-title: "Pre-sale renovations: what actually raises your asking price and what's a waste of money"
+title: "Ремонт перед продажей: что повышает цену, а что — нет"
 date: "2026-05-06"
-category: "Interior & Renovation"
+category: "Интерьер и ремонт"
 image: "/assets/blog/dmdQ0UFyNBuovegkgzEddYdgzro.webp"
-imageAlt: "Low-angle worm's-eye view looking up the facade of a brutalist concrete high-rise tower against a clear blue sky"
+imageAlt: "Бетонная башня в стиле брутализма снизу на фоне ясного голубого неба"
 ---
 
-Many homeowners believe major renovations are necessary before putting a property on the market. In reality, some improvements significantly increase buyer interest, while others provide little return on investment. Understanding the difference can save both time and money.
+Перед продажей хочется «освежить» дом, но не каждое вложение возвращается в цене. Вот что действительно замечают покупатели, а что лучше оставить новому владельцу.
 
-#### Upgrades That Buyers Notice
+#### Улучшения, которые замечают
 
-Simple improvements often deliver the best results. Fresh paint, updated light fixtures, clean landscaping, and minor cosmetic repairs can dramatically improve a property's appearance. Buyers are more likely to make strong offers when a home looks well-maintained and move-in ready.
+Свежая покраска стен в нейтральных тонах. Исправные двери, окна и сантехника. Хорошее освещение и чистые фасады. Ухоженный сад или двор — первое, что видит покупатель. Небольшие правки на кухне: фасады, ручки, смеситель.
 
-Kitchen and bathroom updates can also add value, but full remodels are not always necessary. Replacing cabinet hardware, updating faucets, or installing modern lighting can create a refreshed look without a major investment.
+#### Ремонт, который редко окупается
 
-#### Renovations That Rarely Pay Off
+Дорогая перепланировка и «дизайнерская» отделка под свой вкус. Бассейн или зимний сад, если их нет у соседей. Полная замена кухни или ванной ради продажи — покупатель всё равно захочет сделать по-своему.
 
-Large-scale luxury upgrades are often a poor choice when preparing to sell. Expensive custom kitchens, premium flooring throughout the entire home, or highly personalized design features may not appeal to every buyer. In many cases, sellers recover only a portion of these costs.
-
-Instead of focusing on dramatic transformations, prioritize repairs and improvements that address visible issues. A clean, functional, and attractive property generally performs better in the market than one filled with costly but unnecessary upgrades.
+Лучшее вложение перед продажей — чистота, порядок и хорошие фотографии.

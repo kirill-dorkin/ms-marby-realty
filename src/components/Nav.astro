@@ -13,7 +13,7 @@ const s = await site('settings');
 <header class="nav" data-nav>
   <div class="nav__bar">
     <div class="nav__col nav__col--menu">
-      <button class="chip" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="menu" data-menu-open>
+      <button class="chip" type="button" aria-label="Открыть меню" aria-expanded="false" aria-controls="menu" data-menu-open>
         <Icon name="menu" />
       </button>
     </div>
@@ -26,17 +26,17 @@ const s = await site('settings');
   </div>
 </header>
 
-<div class="menu" id="menu" role="dialog" aria-modal="true" aria-label="Menu" hidden data-menu>
+<div class="menu" id="menu" role="dialog" aria-modal="true" aria-label="Меню" hidden data-menu>
   <div class="menu__top">
     <div class="menu__brand">
-      <button class="chip" type="button" aria-label="Close menu" data-menu-close>
+      <button class="chip" type="button" aria-label="Закрыть меню" data-menu-close>
         <Icon name="close" />
       </button>
       <span class="t-h5">{s.brand}</span>
     </div>
     <div class="menu__top-cta"><Btn label={s.consultation.label} href={s.consultation.href} /></div>
   </div>
-  <nav class="menu__list" aria-label="Main">
+  <nav class="menu__list" aria-label="Основная навигация">
     {s.menu.map((item: any, i: number) => (
       <a class="menu__item t-h2" href={item.href} style={`--d:${[0.15, 0.15, 0.25, 0.35, 0.45][i] ?? 0.45}s`}>{item.label}</a>
     ))}

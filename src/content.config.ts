@@ -8,7 +8,7 @@ const properties = defineCollection({
   schema: z.object({
     name: z.string(),
     number: z.string(),
-    category: z.enum(['for sale', 'for rent']),
+    category: z.enum(['продажа', 'аренда']),
     image: z.string(),
     imageAlt: z.string(),
     secondaryImage: z.string(),

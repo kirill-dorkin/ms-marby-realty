@@ -10,11 +10,11 @@ const prop = await site('property');
 const faq = await site('faq');
 const L = prop.labels;
 const items = (await getCollection('properties')).sort((a, b) => a.data.number.localeCompare(b.data.number)).slice(0, 8);
-const categories = [...new Set(items.map((p) => p.data.category))].sort((a, b) => (a === 'for rent' ? -1 : 1));
+const categories = [...new Set(items.map((p) => p.data.category))].sort((a, b) => (a === 'аренда' ? -1 : 1));
 ---
 <Base
-  title="Properties for Sale — Marby Real Estate"
-  description="Browse our exclusive selection of luxury homes, apartments, and estates. Filter by location, size, and price to find the property that fits your vision."
+  title="Объекты — Marby"
+  description="Каталог домов и резиденций Marby: продажа и аренда."
 >
   <section class="phero" data-dark>
     <img class="phero__bg" src={prop.hero.image} alt="" />
@@ -27,12 +27,12 @@ const categories = [...new Set(items.map((p) => p.data.category))].sort((a, b) =
   <section class="plist" data-filter>
     <div class="container plist__inner">
       <div class="plist__bar">
-        <div class="plist__tabs" role="group" aria-label="Filter by category" data-appear style="--appear-delay:0.2s">
+        <div class="plist__tabs" role="group" aria-label="Фильтр по категории" data-appear style="--appear-delay:0.2s">
           <button class="tab" type="button" data-filter-tab="" aria-pressed="true">{L.all}</button>
           {categories.map((c) => <button class="tab" type="button" data-filter-tab={c} aria-pressed="false">{c}</button>)}
         </div>
         <label class="plist__search" data-appear style="--appear-delay:0.3s">
-          <span class="visually-hidden">Search properties</span>
+          <span class="visually-hidden">Поиск по объектам</span>
           <Icon name="search" class="plist__search-icon" />
           <input type="search" placeholder={L.search} data-filter-search />
         </label>

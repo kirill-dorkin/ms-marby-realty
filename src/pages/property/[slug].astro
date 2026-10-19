@@ -23,12 +23,12 @@ const rooms = (['bedroom', 'bathroom', 'kitchen', 'exterior'] as const).filter((
 const map = `https://maps.google.com/maps?q=${encodeURIComponent(d.location)}&z=15&output=embed`;
 ---
 <Base
-  title={`${d.name} — Marby Real Estate`}
-  description={`${d.name} in ${d.location}. ${d.area}, ${d.buildYear}. View full details, gallery, and schedule a private showing.`}
+  title={`${d.name} — Marby`}
+  description={`${d.name}, ${d.location}. ${d.area}, ${d.buildYear}. Подробности, галерея и запись на показ.`}
   image={d.image}
 >
   <section class="pd">
-    <nav class="crumbs" aria-label="Breadcrumb">
+    <nav class="crumbs" aria-label="Навигационная цепочка">
       <a class="t-body-sm link" href="/property">{L.crumb}</a>
       <span class="t-body-sm c-300">/</span>
       <span class="t-body-sm c-900 crumbs__current">{d.name}</span>
@@ -65,7 +65,7 @@ const map = `https://maps.google.com/maps?q=${encodeURIComponent(d.location)}&z=
 
       <div class="pd__content">
         <div class="pd__left">
-          <nav class="jump" data-jump data-jump-offset="140" aria-label="Sections" data-appear style="--appear-y:150px">
+          <nav class="jump" data-jump data-jump-offset="140" aria-label="Разделы" data-appear style="--appear-y:150px">
             <a class="jump__link t-body-sm is-active" href="#overview">{L.overview}</a>
             <a class="jump__link t-body-sm" href="#highlights">{L.highlights}</a>
             <a class="jump__link t-body-sm" href="#location">{L.locationTitle}</a>
@@ -123,10 +123,10 @@ const map = `https://maps.google.com/maps?q=${encodeURIComponent(d.location)}&z=
       <div class="gallery__popup" data-jump-scroller data-lenis-prevent>
         <div class="gallery__top">
           <div class="gallery__bar">
-            <button class="gallery__close" type="button" aria-label="Close gallery" data-gallery-close><Icon name="close" size={24} /></button>
+            <button class="gallery__close" type="button" aria-label="Закрыть галерею" data-gallery-close><Icon name="close" size={24} /></button>
             <Btn label={settings.consultation.label} href={settings.consultation.href} />
           </div>
-          <nav class="jump jump--modal" data-jump data-jump-offset="170" aria-label="Rooms">
+          <nav class="jump jump--modal" data-jump data-jump-offset="170" aria-label="Помещения">
             {rooms.map((r, i) => <a class:list={['jump__link t-body-sm', { 'is-active': i === 0 }]} href={`#${r}`}>{L.rooms[r]}</a>)}
           </nav>
         </div>

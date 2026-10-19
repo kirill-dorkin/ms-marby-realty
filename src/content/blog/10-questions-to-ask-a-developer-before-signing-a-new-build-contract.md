@@ -1,34 +1,28 @@
 ---
 order: 3
-title: "10 Questions to Ask a Developer Before Signing a New-Build Contract"
+title: "10 вопросов застройщику до подписания договора"
 date: "2026-04-28"
-category: "Buyer's Guide"
+category: "Гид покупателя"
 image: "/assets/blog/QYGcF5YWevqEl8ivyjDu7V8TFc.webp"
-imageAlt: "Facade of a terracotta-red apartment building with wrought iron balconies overflowing with green plants, sunlit urban architecture"
+imageAlt: "Фасад терракотового жилого дома с коваными балконами, увитыми зеленью"
 ---
 
-Buying a newly built property can offer modern amenities, energy efficiency, and lower maintenance costs. However, purchasing directly from a developer also involves certain risks. Asking the right questions before signing a contract can help buyers make informed decisions and avoid unpleasant surprises later.
+Покупка квартиры в новостройке — одно из самых выгодных и одновременно самых рискованных решений на рынке. Цена на этапе котлована ниже, но вы покупаете то, чего ещё нет. Чтобы не ошибиться, задайте застройщику несколько прямых вопросов до подписания договора.
 
-#### Questions About the Project
+#### Вопросы о проекте
 
-Before committing, ask:
+1. Какие разрешительные документы уже получены и можно ли их увидеть?
+2. Какие объекты компания уже сдала и сколько времени заняла сдача каждого?
+3. Каков реальный график строительства и что будет, если сроки сдвинутся?
+4. Что входит в «черновую» и «предчистовую» отделку — по пунктам?
+5. Где будут парковка, детская площадка и подключение к сетям?
 
-1. What is the estimated completion date?
-2. Has the project experienced delays before?
-3. What construction warranties are included?
-4. Which finishes and features are included in the base price?
-5. Are there additional fees not listed in the advertised price?
+#### Вопросы о финансовой и юридической защите
 
-These questions can help clarify the true cost of ownership and provide insight into the developer's reliability.
+6. Какой договор вы подписываете: долевого участия, купли-продажи или предварительный?
+7. Как защищены ваши деньги, если застройщик не завершит проект?
+8. Какие штрафы предусмотрены за задержку сдачи?
+9. Можно ли переуступить право на квартиру до сдачи дома?
+10. Кто отвечает за оформление права собственности и сколько это стоит?
 
-#### Questions About Financial and Legal Protection
-
-Buyers should also ask:
-
-1. What is the payment schedule?
-2. What happens if construction is delayed?
-3. Can the developer make design changes after purchase?
-4. Are there penalties for contract cancellation?
-5. Can I review all project documentation before signing?
-
-A reputable developer should be transparent and willing to provide detailed answers. Taking the time to review contracts carefully and seek legal advice when needed can prevent costly disputes and ensure greater peace of mind.
+Ответы стоит получить письменно и показать юристу. Если на какой-то вопрос застройщик отвечает уклончиво — это уже ответ.
